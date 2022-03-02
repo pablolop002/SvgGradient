@@ -14,7 +14,7 @@
 		<ApplicationTitle>SvgGradient</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.svggradient</ApplicationId>
+		<ApplicationId>com.pablolop002.svggradient</ApplicationId>
 
 		<!-- Versions -->
 		<ApplicationVersion>1</ApplicationVersion>
@@ -31,7 +31,7 @@
 
 	<ItemGroup>
 		<!-- App Icon -->
-		<MauiIcon Include="Resources\appicon.svg" ForegroundFile="Resources\appiconfg.svg" Color="#512BD4" />
+		<MauiIcon Include="Resources\demo.svg" ForegroundFile="Resources\appiconfg.svg" Color="#512BD4" />
 
 		<!-- Splash Screen -->
 		<MauiSplashScreen Include="Resources\appiconfg.svg" Color="#512BD4" />
